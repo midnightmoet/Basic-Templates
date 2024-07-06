@@ -58,6 +58,7 @@ textarea {
     box-sizing: border-box;
 }
 
+
 select {
     height: 40px;
 }
@@ -92,6 +93,7 @@ input[type="checkbox"],
 input[type="radio"] {
     margin-right: 5px;
 }
+
 
 /* Responsive Design */
 @media (max-width: 600px) {
