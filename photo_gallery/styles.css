@@ -44,7 +44,7 @@ body {
 }
 
 .gallery img.selected {
-    border: 2px solid #4285f4;
+    border: 2px solid  #fdb347
 }
 
 .gallery::after {
